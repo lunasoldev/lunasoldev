@@ -1,34 +1,42 @@
-# About me
-Hey there, I'm Lunasol! 
-I am a 15 year old coder who uses the pronouns she/her. 
-I come from germany and mostly use Java for my projects. I'm also good in C# and know a bit of python. 
-I love learning and math and am up for new and interesting projects.
+<div align="center">
+  <div id="header">
+    <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width=150>
+  </div>
+  <div id="badges">
+    <a href="https://www.youtube.com/channel/UCXzBUgc-ph7VZxq_H59NMyQ">
+      <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logocolor=YouTube-red&style=for-the-badge" alt="Youtube Badge">
+    </a>
+  </div>
+    <img src="https://komarev.com/ghpvc/?username=lunasoldev&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hello there!
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtzcXdwYmpibDlmdHluam5yaGk1dXd5OWw4cG8wM2ptdmF2NzV2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif" width="50px"/>
+  </h1>
+</div>
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThvdjgxb21oZHYxZTg3bG9iOGE1eTVtYTFvNnN2aGE2NnRreDd3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="600" height="300"/>
+</div>
 
-## Current projects
+--- 
+### 👩‍💻 About Me :
+I am a 15 year old coder from germany.
 
-### [Lunamod](https://github.com/lunasoldev/lunamod)
+- 🎒 I am currently in school.
+- ⚡ In my free time I enjoy learning about math and coding.
+- 🌱 Currently learning Minecraft mod development using the Fabric modloader.
+- 📫 Contact me: dev.lunasol@proton.me
+  
+--- 
+### 🔥 My Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lunasoldev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+--- 
+### 🖥️ Current projects:
+
+#### [Lunamod](https://github.com/lunasoldev/lunamod)
 A Minecraft mod made using the Fabric API.
 
-### [MinestomTemplate](https://github.com/astrosquared/minestomtemplate)
+#### [MinestomTemplate](https://github.com/astrosquared/minestomtemplate)
 A basic server template for the [Minestom](https://github.com/minestom/minestom) framework.
-
-## Contact
-Email: dev.lunasol@proton.me
-
-
-<!--
-**lunasoldev/lunasoldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
