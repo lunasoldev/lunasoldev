@@ -21,11 +21,11 @@
 
 --- 
 ### 👩‍💻 About Me :
-I am a 15 year old coder from germany.
+I am a 16 year old from germany.
 
-- 🎒 I am currently in school.
+- 🎒 I go to school.
 - ⚡ In my free time I enjoy learning about math and coding.
-- 🌱 Currently learning Minecraft mod development using the Fabric modloader.
+- 🌱 Doing some random things atm, mostly to do with linux.
 - 📫 Contact me: dev.lunasol@proton.me
   
 --- 
@@ -34,6 +34,9 @@ I am a 15 year old coder from germany.
 
 --- 
 ### 🖥️ Current projects:
+
+#### [TPet](https://github.com/lunasoldev/tpet)
+A Cowsay based pet inside your bash shell.
 
 #### [Lunamod](https://github.com/lunasoldev/lunamod)
 A Minecraft mod made using the Fabric API.
